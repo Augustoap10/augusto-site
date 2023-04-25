@@ -1,0 +1,185 @@
+body::-webkit-scrollbar {
+    width: 6px;     
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #ffffff;        
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #3d2323;    
+    border-radius: 20px;      
+    border:  none;  
+  }
+  
+  
+  
+  @import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+  
+  *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    transition: 0.3s all;
+    margin: 0 auto;
+    align-items: center;
+    max-width: 1400px;
+    width: 100%;
+    height: 100vh;
+}
+
+.bolos h1{
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 96px;
+    color: #3E2424;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.prgf{
+    margin-top: 80px;
+}
+
+.prgf ul li{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #3E2424;
+    max-width: 520px;
+    margin-left: 150px;
+    line-height: 29px;
+}
+
+li::before {content: "•"; color: #231717;
+    font-size: 26px;
+    display: inline-block; width: 20px;
+    margin-left: -20px}
+
+.bolo-de-fuba-coberto-com-goiabada-cremosa-393042-article1{
+    position:absolute;
+    left: 660px;
+    top: 190px;
+}
+
+.bolo_de_limao_com_cobertura_de_mousse_de_limao_8094_orig1{
+    position:absolute;
+    left: 950px;
+    top: 100px;
+}
+
+.receita-de-bolo-de-churros1{
+    position:absolute;
+    left: 800px;
+    top: 350px;
+}
+
+.prc{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 39px;
+    color: #3E2424;
+    margin-left: 130px;
+    margin-top: 15px;
+    background-color: #3e242438;
+    max-width: 650px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.prc span{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.rectangle2{
+    background-color:#3d2323;
+    height: 18px;
+    width: 100%;
+    margin-top: 80px;
+}
+
+
+.nozinho{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58px;
+    margin-top: 50px;
+    color: #3E2424;
+    margin-left: 180px;
+}
+
+.cc980490ec5b916a0d0923f78a69361{
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 10px;
+    margin-bottom: 80px;
+}
+
+.valor p{
+    position: relative;
+    margin-left: 500px;
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #3E2424;
+    font-weight: 520;
+}
+
+.valor span{
+    margin-left: 520px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    color: #3E2424;
+    font-weight: 700;
+}
+
+.text3{
+    font-family: 'Poppins', sans-serif;
+    position: relative;
+    margin-top: -250px;
+    margin-left: 650px;
+    font-size: 48px;
+    max-width: 250px;
+    text-transform: uppercase;
+    color: #3E2424;
+}
+
+.torta-salgada-de-frango-receita1{
+    position: absolute;
+    margin-left: 850px;
+    margin-top: -70px;
+}
+
+.prc2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 39px;
+    color: #3E2424;
+    margin-left: 750px;
+    margin-top: 180px;
+    max-width: 500px;
+}
+
+.prc2 span{
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.margin{
+    padding: 50px;
+}
